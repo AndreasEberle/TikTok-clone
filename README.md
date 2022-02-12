@@ -23,3 +23,5 @@ sort with , in this case based on the ID.
 
 -BrokerData: The information of said broker , in an array of bytes that we can "work" with (Serializable indicates that this data structure has to "travel" through the internet" 
 , meaning that we have to send it to a socket , and that it has to arrive as a WHOLE structure from one PC to another)
+
+--MORE EXPLANATION TO COME--
