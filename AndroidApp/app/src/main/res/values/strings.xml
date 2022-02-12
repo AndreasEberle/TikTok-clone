@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="tab_text_1">Network</string>
+    <string name="tab_text_2">Data</string>
+    <string name="tab_text_3">Pulled</string>
+    <string name="tab_text_4">Search</string>
+    <string name="username">Username:</string>
+    <string name="gateway_ip">Gateway IP:</string>
+    <string name="gateway_port">Gateway Port:</string>
+    <string name="local_ip">Local IP:</string>
+    <string name="local_port">Local port:</string>
+    <string name="capture">Capture a new video</string>
+    <string name="channel">Channel:</string>
+    <string name="name">Name:</string>
+    <string name="id">id</string>
+    <string name="path">path</string>
+    <string name="type_channel_name">type channel name here</string>
+    <string name="videoname">Video name:</string>
+    <string name="type_video_name">type the video name here</string>
+</resources>
