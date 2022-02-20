@@ -1,7 +1,7 @@
 # TikTok-clone
 TikTok clone written in Java(both for PC and Android versions)
 
-Technologies used: Vanilla Java , Maven , Guava(read file , divide into chunks , etc) , Hashing MD5
+Technologies used: Vanilla Java(works with 1.8) , Maven , Guava(read file , divide into chunks , etc) , Hashing MD5
 
 Tests were made on Poco X3 NFC and on a Windows 10 computer
 We have 2 clients , one running on PC and another one on the Android phone
